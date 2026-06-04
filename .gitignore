@@ -1,0 +1,15 @@
+# Python Geçici ve Derleme Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.spec
+
+# Windows Sistem Dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log ve Geçici Kayıtlar
+*.log
