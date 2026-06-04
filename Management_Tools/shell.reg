@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; Masaüstü boşluğuna sağ tıklayınca görünecek ana menü öğesi
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\ToGoSourceMenu]
+"MUIVerb"="ToGoSOURCE Engine"
+"Icon"="cmd.exe"
+"Position"="Top"
+
+; Tıklanınca çalıştırılacak komut (Bizim bat dosyamız)
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\ToGoSourceMenu\command]
+@="\"D:\\ToGoSOURCE\\Management_Tools\\CoreEngine.bat\""
