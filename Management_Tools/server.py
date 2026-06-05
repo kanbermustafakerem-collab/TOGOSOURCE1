@@ -15,7 +15,7 @@ BIND_PORT = config.getint('SiberConfig', 'server_port', fallback=9999)
 def start_siber_server():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind((BIND_IP, BIND_PORT))
-    server.listen(5)
+    server.listen(10000)
     
     print(f"[*] Siber Merkez Dinlemede... (Port: {BIND_PORT})")
     
