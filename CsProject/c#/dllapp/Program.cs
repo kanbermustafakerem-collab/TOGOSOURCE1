@@ -1,0 +1,1 @@
+﻿System.Console.WriteLine("Merhaba, EXE basariyla calisti!");

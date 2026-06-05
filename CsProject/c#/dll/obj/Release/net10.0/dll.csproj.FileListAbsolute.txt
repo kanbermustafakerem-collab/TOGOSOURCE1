@@ -1,0 +1,14 @@
+D:\c#\dll\bin\Release\net10.0\dll.exe
+D:\c#\dll\bin\Release\net10.0\dll.deps.json
+D:\c#\dll\bin\Release\net10.0\dll.runtimeconfig.json
+D:\c#\dll\bin\Release\net10.0\dll.dll
+D:\c#\dll\bin\Release\net10.0\dll.pdb
+D:\c#\dll\obj\Release\net10.0\dll.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\dll\obj\Release\net10.0\dll.AssemblyInfoInputs.cache
+D:\c#\dll\obj\Release\net10.0\dll.AssemblyInfo.cs
+D:\c#\dll\obj\Release\net10.0\dll.csproj.CoreCompileInputs.cache
+D:\c#\dll\obj\Release\net10.0\dll.dll
+D:\c#\dll\obj\Release\net10.0\refint\dll.dll
+D:\c#\dll\obj\Release\net10.0\dll.pdb
+D:\c#\dll\obj\Release\net10.0\dll.genruntimeconfig.cache
+D:\c#\dll\obj\Release\net10.0\ref\dll.dll

@@ -1,0 +1,5 @@
+D:\c#\dll\publish\dll.exe
+D:\c#\dll\publish\dll.dll
+D:\c#\dll\publish\dll.deps.json
+D:\c#\dll\publish\dll.runtimeconfig.json
+D:\c#\dll\publish\dll.pdb
