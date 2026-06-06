@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "debug_mode": false
+  },
+  "api": {
+    "timeout": 30,
+    "retry_attempts": 3
+  }
+}

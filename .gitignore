@@ -1,15 +1,26 @@
-# Python Geçici ve Derleme Dosyaları
+# Python bytecode
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyInstaller builds
 build/
 dist/
 *.spec
 
-# Windows Sistem Dosyaları
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+# Inno Setup outputs
+InnoSetup/Outputs/
 
-# Log ve Geçici Kayıtlar
-*.log
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
